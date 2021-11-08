@@ -1,0 +1,172 @@
+Starting: pool-1-thread-2
+Starting: pool-1-thread-4
+Starting: pool-1-thread-3
+Starting: pool-1-thread-5
+Starting: pool-1-thread-1
+Starting: pool-1-thread-6
+Finishing: pool-1-thread-1
+Finishing: pool-1-thread-5
+Finishing: pool-1-thread-6
+Finishing: pool-1-thread-2
+Finishing: pool-1-thread-3
+Finishing: pool-1-thread-4
+Mined Block by: pool-1-thread-4  bloco=Block [hash=89c702ee9d624179fdd95c089560e37cb0a5180bb53dde21a1aeedaae27bd31d, previousHash=, data=primeiro bloco, timeStamp=1636340400000, nonce=91692, mined=true]]
+
+
+
+Starting: pool-2-thread-3
+Starting: pool-2-thread-1
+Starting: pool-2-thread-2
+Starting: pool-2-thread-5
+Starting: pool-2-thread-6
+Starting: pool-2-thread-4
+Finishing: pool-2-thread-2
+Finishing: pool-2-thread-1
+Finishing: pool-2-thread-5
+Finishing: pool-2-thread-3
+Finishing: pool-2-thread-6
+Finishing: pool-2-thread-4
+Mined Block by: pool-2-thread-4  bloco=Block [hash=6a7b74305151f517dd417ef0e950d04d08de767f42499438dc1470af00d64559, previousHash=00000be62a97b1fae03a8faf68602e758e9ae6c7ce2bda63f336be9cd9ed2565, data=data, timeStamp=1636340400000, nonce=513011, mined=true]]
+
+
+
+Starting: pool-3-thread-1
+Starting: pool-3-thread-2
+Starting: pool-3-thread-3
+Starting: pool-3-thread-4
+Starting: pool-3-thread-5
+Starting: pool-3-thread-6
+Finishing: pool-3-thread-3
+Finishing: pool-3-thread-6
+Finishing: pool-3-thread-5
+Mined Block by: pool-3-thread-5  bloco=Block [hash=92edd8c876725a8b52f1a5a0bbe1c646d2c02ea4027f06b68881b41ebcf64749, previousHash=0000077709c52d4d9e5c5d276efb2e1f10f06dd32608af17262682c4bf7f5fad, data=data, timeStamp=1636340400000, nonce=175507, mined=true]]
+Finishing: pool-3-thread-2
+Finishing: pool-3-thread-1
+Finishing: pool-3-thread-4
+
+
+
+Starting: pool-4-thread-1
+Starting: pool-4-thread-2
+Starting: pool-4-thread-3
+Starting: pool-4-thread-4
+Starting: pool-4-thread-5
+Starting: pool-4-thread-6
+Finishing: pool-4-thread-3
+Finishing: pool-4-thread-2
+Finishing: pool-4-thread-1
+Finishing: pool-4-thread-4
+Finishing: pool-4-thread-6
+Finishing: pool-4-thread-5
+Mined Block by: pool-4-thread-5  bloco=Block [hash=6b13c55a7677d68185ce790a1d5da947d58364215e18003375121391f235a71f, previousHash=000007afff7c493cd05cc73b6768920c6cff45310aa16feed524abaebc21ce29, data=data, timeStamp=1636340400000, nonce=512597, mined=true]]
+
+
+
+Starting: pool-5-thread-1
+Starting: pool-5-thread-2
+Starting: pool-5-thread-3
+Starting: pool-5-thread-4
+Starting: pool-5-thread-5
+Starting: pool-5-thread-6
+Finishing: pool-5-thread-2
+Finishing: pool-5-thread-5
+Finishing: pool-5-thread-6
+Finishing: pool-5-thread-1
+Finishing: pool-5-thread-4
+Finishing: pool-5-thread-3
+Mined Block by: pool-5-thread-1  bloco=Block [hash=571749cb11a3b639fe0ff24d6f38557c6b66a24ef794b3be2e1c21aae7e5f3ce, previousHash=00000b5311d7aaa999e222fdadc734a703ae6e6948b51c6cb91c283e04cd603e, data=data, timeStamp=1636340400000, nonce=2264281, mined=true]]
+
+
+
+Starting: pool-6-thread-1
+Starting: pool-6-thread-2
+Starting: pool-6-thread-3
+Starting: pool-6-thread-4
+Starting: pool-6-thread-5
+Starting: pool-6-thread-6
+Finishing: pool-6-thread-4
+Finishing: pool-6-thread-6
+Finishing: pool-6-thread-1
+Finishing: pool-6-thread-5
+Finishing: pool-6-thread-3
+Finishing: pool-6-thread-2
+Mined Block by: pool-6-thread-2  bloco=Block [hash=714b146b6a4aac6109a51c9489d12e4c526b652dc6d71d4d747bb89f15c97bf8, previousHash=0000072e2ac4f8afa4e906ee3a64bb437491bff83cb572e745939bfb58eff6a1, data=data, timeStamp=1636340400000, nonce=698319, mined=true]]
+
+
+
+Starting: pool-7-thread-1
+Starting: pool-7-thread-2
+Starting: pool-7-thread-3
+Starting: pool-7-thread-4
+Starting: pool-7-thread-5
+Starting: pool-7-thread-6
+Finishing: pool-7-thread-1
+Finishing: pool-7-thread-6
+Finishing: pool-7-thread-2
+Finishing: pool-7-thread-5
+Finishing: pool-7-thread-4
+Finishing: pool-7-thread-3
+Mined Block by: pool-7-thread-3  bloco=Block [hash=1f82ff261af375eeb8af0437050b60ebef0fdac06014bb8a591def2f7b44ef4e, previousHash=00000746e741ab596fc614204aaf7bf49e060d1cd0f86d0e84087a3d275f7320, data=data, timeStamp=1636340400000, nonce=111574, mined=true]]
+
+
+
+Starting: pool-8-thread-1
+Starting: pool-8-thread-2
+Starting: pool-8-thread-3
+Starting: pool-8-thread-4
+Starting: pool-8-thread-5
+Starting: pool-8-thread-6
+Finishing: pool-8-thread-6
+Finishing: pool-8-thread-4
+Finishing: pool-8-thread-3
+Finishing: pool-8-thread-2
+Finishing: pool-8-thread-5
+Mined Block by: pool-8-thread-5  bloco=Block [hash=b4e954468421534bd20635dd1365f762d459a56787d0d767ad3f2b844acf9314, previousHash=000002d66ffd6d24d22971f8b56989a1d24e3f725a2870191a5d31a97c839785, data=data, timeStamp=1636340400000, nonce=77895, mined=true]]
+Finishing: pool-8-thread-1
+
+
+
+Starting: pool-9-thread-1
+Starting: pool-9-thread-5
+Starting: pool-9-thread-3
+Starting: pool-9-thread-4
+Starting: pool-9-thread-6
+Starting: pool-9-thread-2
+Finishing: pool-9-thread-4
+Finishing: pool-9-thread-1
+Finishing: pool-9-thread-6
+Finishing: pool-9-thread-5
+Finishing: pool-9-thread-3
+Finishing: pool-9-thread-2
+Mined Block by: pool-9-thread-2  bloco=Block [hash=8813ec90770ac524ca4bdf549d69ebc04610ac2c98f1933c3574f417cceae5e4, previousHash=0000030ef0a2e60c01e0e2d6798902cbe732166534d817913250a29ae5c669af, data=data, timeStamp=1636340400000, nonce=1929278, mined=true]]
+
+
+
+Starting: pool-10-thread-1
+Starting: pool-10-thread-2
+Starting: pool-10-thread-3
+Starting: pool-10-thread-4
+Starting: pool-10-thread-5
+Starting: pool-10-thread-6
+Finishing: pool-10-thread-4
+Finishing: pool-10-thread-6
+Finishing: pool-10-thread-2
+Finishing: pool-10-thread-3
+Finishing: pool-10-thread-5
+Finishing: pool-10-thread-1
+Mined Block by: pool-10-thread-1  bloco=Block [hash=0375c604d0faf7ec081934271b20d41d6a043b6b82431efa5aaa671015654a89, previousHash=000001d6bc895379d3d6bd5b6659ec0dd069f23faedcf23c7832a7f4641f6706, data=data, timeStamp=1636340400000, nonce=259724, mined=true]]
+
+
+
+
+
+Block [hash=89c702ee9d624179fdd95c089560e37cb0a5180bb53dde21a1aeedaae27bd31d, previousHash=, data=primeiro bloco, timeStamp=1636340400000, nonce=91692, mined=true]
+Block [hash=6a7b74305151f517dd417ef0e950d04d08de767f42499438dc1470af00d64559, previousHash=00000be62a97b1fae03a8faf68602e758e9ae6c7ce2bda63f336be9cd9ed2565, data=data, timeStamp=1636340400000, nonce=513011, mined=true]
+Block [hash=92edd8c876725a8b52f1a5a0bbe1c646d2c02ea4027f06b68881b41ebcf64749, previousHash=0000077709c52d4d9e5c5d276efb2e1f10f06dd32608af17262682c4bf7f5fad, data=data, timeStamp=1636340400000, nonce=175507, mined=true]
+Block [hash=6b13c55a7677d68185ce790a1d5da947d58364215e18003375121391f235a71f, previousHash=000007afff7c493cd05cc73b6768920c6cff45310aa16feed524abaebc21ce29, data=data, timeStamp=1636340400000, nonce=512597, mined=true]
+Block [hash=571749cb11a3b639fe0ff24d6f38557c6b66a24ef794b3be2e1c21aae7e5f3ce, previousHash=00000b5311d7aaa999e222fdadc734a703ae6e6948b51c6cb91c283e04cd603e, data=data, timeStamp=1636340400000, nonce=2264281, mined=true]
+Block [hash=714b146b6a4aac6109a51c9489d12e4c526b652dc6d71d4d747bb89f15c97bf8, previousHash=0000072e2ac4f8afa4e906ee3a64bb437491bff83cb572e745939bfb58eff6a1, data=data, timeStamp=1636340400000, nonce=698319, mined=true]
+Block [hash=1f82ff261af375eeb8af0437050b60ebef0fdac06014bb8a591def2f7b44ef4e, previousHash=00000746e741ab596fc614204aaf7bf49e060d1cd0f86d0e84087a3d275f7320, data=data, timeStamp=1636340400000, nonce=111574, mined=true]
+Block [hash=b4e954468421534bd20635dd1365f762d459a56787d0d767ad3f2b844acf9314, previousHash=000002d66ffd6d24d22971f8b56989a1d24e3f725a2870191a5d31a97c839785, data=data, timeStamp=1636340400000, nonce=77895, mined=true]
+Block [hash=8813ec90770ac524ca4bdf549d69ebc04610ac2c98f1933c3574f417cceae5e4, previousHash=0000030ef0a2e60c01e0e2d6798902cbe732166534d817913250a29ae5c669af, data=data, timeStamp=1636340400000, nonce=1929278, mined=true]
+Block [hash=0375c604d0faf7ec081934271b20d41d6a043b6b82431efa5aaa671015654a89, previousHash=000001d6bc895379d3d6bd5b6659ec0dd069f23faedcf23c7832a7f4641f6706, data=data, timeStamp=1636340400000, nonce=259724, mined=true]
